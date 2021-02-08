@@ -17,4 +17,4 @@ We can see the obtained results below:
 
 ![alt text](data/object_size_output.gif)
 
-The code is based on ![alt_text](https://www.pyimagesearch.com/2016/03/28/measuring-size-of-objects-in-an-image-with-opencv/)
+The code is based on [Measuring size of objects in an image with OpenCV](https://www.pyimagesearch.com/2016/03/28/measuring-size-of-objects-in-an-image-with-opencv/)
